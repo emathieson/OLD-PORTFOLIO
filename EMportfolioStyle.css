@@ -16,13 +16,15 @@ h2 {
 	font-size: 1.1em;
 	font-family: 'Montserrat';
 	font-weight: bold;
-	text-align: center;
+  text-align: center;
+  margin: 3vh;
 }
 
 p {
 	font-size: 1.0em;
 	font-family: 'Montserrat';
-	text-align: center;
+  text-align: center;
+  margin: 4vh;
 }
 
 #emImage {
@@ -59,7 +61,8 @@ p {
 }
 
 #links {
-	background-color: none;
+  background-color: none;
+  margin-bottom: 2vh;
 }
 
 #icons {
